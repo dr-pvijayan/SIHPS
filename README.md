@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date: 24.08.2024
 ## Register Number:
 ## Name:
 ## Problem Title
